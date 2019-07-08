@@ -1,9 +1,3 @@
-"""This is a sample file for project 1. 
-It contains the function that should be submitted,
-except all it does is output a random value out of the
-possible values that are allowed.
-- Dr. Licato"""
-
 import random
 import re
 import itertools
